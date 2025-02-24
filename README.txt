@@ -1,7 +1,7 @@
-!!!!!!Make sure your loogin details are set correctly using the "git config --list" command!!!!!!
+!!!!!!Make sure your login details are set correctly using the "git config --list" command!!!!!!
 
 
-IMPORTING(Only needs to be dome once)
+IMPORTING(Only needs to be done once)
 
 1. Select desired local directory
 PowerShell/Bash:
